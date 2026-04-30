@@ -14,7 +14,7 @@ class ChatbotBase:
 
     # Initial greeting message
     def greeting(self):
-        print(f'Hello I am {self.name}')
+        print(f'Namaste! I am {self.name}')
 
     # Goodbye message
     def farewell(self):

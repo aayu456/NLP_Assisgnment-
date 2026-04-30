@@ -6,9 +6,9 @@ if __name__ == "__main__":
     chatbot = TrekkingBot()
     chatbot.greeting()
 
-    response = chatbot.respond("I want to plan a trek.")
+    response = chatbot.respond("How many days you want to plan a trek for?")
 
-    while chatbot.conversation_is_active():
+    while chatbot.conversation_is_active:
         response = chatbot.respond(response)
     
     chatbot.farewell()
