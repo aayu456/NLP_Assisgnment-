@@ -1,0 +1,244 @@
+{
+  "places": [
+    "Everest Base Camp",
+    "Annapurna Base Camp",
+    "Manaslu Circuit",
+    "Langtang Valley",
+    "Ghorepani Poon Hill",
+    "Upper Mustang",
+    "Upper Dolpo",
+    "Kanchenjunga Base Camp",
+    "Rara Lake",
+    "Shey Phoksundo Lake",
+    "Makalu Base Camp",
+    "Tsum Valley",
+    "Helambu Trek",
+    "Pikey Peak",
+    "Khopra Ridge",
+    "Mardi Himal",
+    "Tilicho Lake",
+    "Dhaulagiri Circuit",
+    "Rolwaling Valley",
+    "Gosaikunda Lake",
+    "Api Base Camp",
+    "Bardiya National Park",
+    "Chitwan National Park",
+    "Ilam Tea Gardens",
+    "Nagarkot"
+  ],
+  "treks": {
+    "everest": {
+      "short": [
+        { "day": 1, "title": "Fly to Lukla & Trek to Phakding", "altitude": "2610m", "walking_hours": "3-4 hrs", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 2, "title": "Trek to Namche Bazaar", "altitude": "3440m", "walking_hours": "6-7 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Acclimatization Day", "altitude": "3440m", "walking_hours": "2-3 hrs hike", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 4, "title": "Return to Lukla", "altitude": "2860m", "walking_hours": "6-7 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 5, "title": "Fly to Kathmandu", "altitude": "1400m", "walking_hours": "Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "annapurna": {
+      "short": [
+        { "day": 1, "title": "Drive to Nayapul & Trek to Tikhedhunga", "altitude": "1540m", "walking_hours": "4-5 hrs", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 2, "title": "Trek to Ghorepani", "altitude": "2870m", "walking_hours": "6-7 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Poon Hill Sunrise & Trek to Ghandruk", "altitude": "3210m", "walking_hours": "7-8 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Nayapul & Drive Pokhara", "altitude": "822m", "walking_hours": "4 hrs trek, 2 hrs drive", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "manaslu": {
+      "short": [
+        { "day": 1, "title": "Drive to Soti Khola", "altitude": "700m", "walking_hours": "8-9 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Machha Khola", "altitude": "870m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Jagat", "altitude": "1340m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Return Trek to Soti Khola", "altitude": "700m", "walking_hours": "7 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 5, "title": "Drive to Kathmandu", "altitude": "1400m", "walking_hours": "8-9 hrs drive", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "langtang": {
+      "short": [
+        { "day": 1, "title": "Drive to Syabrubesi", "altitude": "1460m", "walking_hours": "7-8 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Lama Hotel", "altitude": "2470m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Langtang Village", "altitude": "3430m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Kyanjin Gompa Exploration & Return to Lama Hotel", "altitude": "3870m", "walking_hours": "7-8 hrs", "difficulty": "Challenging", "accommodation": "Tea House" },
+        { "day": 5, "title": "Trek to Syabrubesi & Drive Kathmandu", "altitude": "1400m", "walking_hours": "5 hrs trek, 7 hrs drive", "difficulty": "Moderate", "accommodation": "Hotel" }
+      ]
+    },
+    "ghorepani_poon_hill": {
+      "short": [
+        { "day": 1, "title": "Drive Pokhara to Ulleri", "altitude": "2050m", "walking_hours": "3 hrs drive, 2 hrs trek", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 2, "title": "Trek to Ghorepani", "altitude": "2874m", "walking_hours": "4-5 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Poon Hill Sunrise & Trek to Tadapani", "altitude": "3210m", "walking_hours": "6-7 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Ghandruk & Drive Pokhara", "altitude": "822m", "walking_hours": "4 hrs trek, 2 hrs drive", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "upper_mustang": {
+      "short": [
+        { "day": 1, "title": "Fly to Jomsom & Drive to Kagbeni", "altitude": "2804m", "walking_hours": "30 min flight, 1 hr drive", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 2, "title": "Drive to Lo Manthang via Charang", "altitude": "3840m", "walking_hours": "6-7 hrs drive", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Explore Lo Manthang & Chhoser", "altitude": "3840m", "walking_hours": "3-4 hrs hike/drive", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 4, "title": "Drive back to Jomsom", "altitude": "2720m", "walking_hours": "7-8 hrs drive", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 5, "title": "Fly to Pokhara", "altitude": "822m", "walking_hours": "30 min flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "upper_dolpo": {
+      "short": [
+        { "day": 1, "title": "Fly to Juphal & Trek to Dunai", "altitude": "2140m", "walking_hours": "3 hrs", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 2, "title": "Trek to Chhepka", "altitude": "2678m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Jengla Phedi", "altitude": "4369m", "walking_hours": "7 hrs", "difficulty": "Challenging", "accommodation": "Tent" },
+        { "day": 4, "title": "Cross Jeng La & Trek to Tokyu", "altitude": "4209m", "walking_hours": "7 hrs", "difficulty": "Challenging", "accommodation": "Tent" },
+        { "day": 5, "title": "Helicopter Return to Nepalgunj/Kathmandu", "altitude": "1400m", "walking_hours": "Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "kanchenjunga_base_camp": {
+      "short": [
+        { "day": 1, "title": "Fly to Bhadrapur & Drive to Taplejung", "altitude": "1820m", "walking_hours": "9 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Drive to Sekathum & Trek to Amjilosa", "altitude": "2308m", "walking_hours": "4 hrs drive, 3 hrs trek", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Ghunsa", "altitude": "3595m", "walking_hours": "7 hrs", "difficulty": "Challenging", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Kambachen", "altitude": "4050m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 5, "title": "Helicopter Return to Kathmandu", "altitude": "1400m", "walking_hours": "Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "rara_lake": {
+      "short": [
+        { "day": 1, "title": "Fly to Talcha & Hike to Rara Lake", "altitude": "2990m", "walking_hours": "2 hrs hike", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Explore Rara Lake & Murma Top", "altitude": "3600m", "walking_hours": "5 hrs hike", "difficulty": "Moderate", "accommodation": "Lodge" },
+        { "day": 3, "title": "Hike to Talcha Airport & Fly Nepalgunj", "altitude": "150m", "walking_hours": "2 hrs hike, Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "shey_phoksundo_lake": {
+      "short": [
+        { "day": 1, "title": "Fly to Juphal & Trek to Dunai", "altitude": "2140m", "walking_hours": "3 hrs", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 2, "title": "Trek to Chhepka", "altitude": "2678m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Phoksundo Lake", "altitude": "3600m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek back to Chhepka", "altitude": "2678m", "walking_hours": "7 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 5, "title": "Trek to Juphal & Fly Out", "altitude": "1400m", "walking_hours": "4 hrs trek, Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "makalu_base_camp": {
+      "short": [
+        { "day": 1, "title": "Fly to Tumlingtar & Drive to Num", "altitude": "1560m", "walking_hours": "4 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Seduwa", "altitude": "1500m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Tashigaon", "altitude": "2100m", "walking_hours": "5 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Khongma Danda", "altitude": "3500m", "walking_hours": "6 hrs", "difficulty": "Challenging", "accommodation": "Tea House" },
+        { "day": 5, "title": "Helicopter Return to Kathmandu", "altitude": "1400m", "walking_hours": "Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "tsum_valley": {
+      "short": [
+        { "day": 1, "title": "Drive to Machha Khola", "altitude": "870m", "walking_hours": "9 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Jagat", "altitude": "1340m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Lokpa (Entering Tsum)", "altitude": "2240m", "walking_hours": "7 hrs", "difficulty": "Challenging", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Chumling", "altitude": "2386m", "walking_hours": "4 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 5, "title": "Helicopter Return to Kathmandu", "altitude": "1400m", "walking_hours": "Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "helambu": {
+      "short": [
+        { "day": 1, "title": "Drive to Sundarijal & Trek to Chisapani", "altitude": "2215m", "walking_hours": "1 hr drive, 4 hrs trek", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 2, "title": "Trek to Kutumsang", "altitude": "2470m", "walking_hours": "6-7 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Tharepati", "altitude": "3690m", "walking_hours": "6 hrs", "difficulty": "Challenging", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Melamchi Gaon", "altitude": "2530m", "walking_hours": "4 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 5, "title": "Drive back to Kathmandu", "altitude": "1400m", "walking_hours": "4 hrs drive", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "pikey_peak": {
+      "short": [
+        { "day": 1, "title": "Drive to Dhap", "altitude": "2850m", "walking_hours": "8-9 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Jhapre", "altitude": "2920m", "walking_hours": "4-5 hrs", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Pikey Base Camp", "altitude": "3640m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Summit Pikey Peak & Trek to Phaplu", "altitude": "4065m", "walking_hours": "8 hrs", "difficulty": "Challenging", "accommodation": "Lodge" },
+        { "day": 5, "title": "Fly or Drive to Kathmandu", "altitude": "1400m", "walking_hours": "Flight/Drive", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "khopra_ridge": {
+      "short": [
+        { "day": 1, "title": "Drive Pokhara to Syauli Bazaar & Trek to Ghandruk", "altitude": "1940m", "walking_hours": "2 hrs drive, 3 hrs trek", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 2, "title": "Trek to Tadapani", "altitude": "2610m", "walking_hours": "4 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Dobato", "altitude": "3420m", "walking_hours": "5 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Khopra Danda", "altitude": "3660m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 5, "title": "Trek to Swanta & Drive Pokhara", "altitude": "822m", "walking_hours": "5 hrs trek, 3 hrs drive", "difficulty": "Moderate", "accommodation": "Hotel" }
+      ]
+    },
+    "mardi_himal": {
+      "short": [
+        { "day": 1, "title": "Drive Pokhara to Kande & Trek to Deurali", "altitude": "2100m", "walking_hours": "1 hr drive, 4 hrs trek", "difficulty": "Easy", "accommodation": "Tea House" },
+        { "day": 2, "title": "Trek to Low Camp", "altitude": "2970m", "walking_hours": "5 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to High Camp", "altitude": "3580m", "walking_hours": "4 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Hike Base Camp & Trek to Badal Danda", "altitude": "4500m", "walking_hours": "7 hrs", "difficulty": "Challenging", "accommodation": "Tea House" },
+        { "day": 5, "title": "Trek to Siding & Drive Pokhara", "altitude": "822m", "walking_hours": "4 hrs trek, 2 hrs drive", "difficulty": "Moderate", "accommodation": "Hotel" }
+      ]
+    },
+    "tilicho_lake": {
+      "short": [
+        { "day": 1, "title": "Drive to Chame", "altitude": "2710m", "walking_hours": "8 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Pisang", "altitude": "3300m", "walking_hours": "5 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Manang", "altitude": "3540m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Tilicho Base Camp", "altitude": "4150m", "walking_hours": "7 hrs", "difficulty": "Challenging", "accommodation": "Tea House" },
+        { "day": 5, "title": "Hike Tilicho Lake & Heli Return", "altitude": "4919m", "walking_hours": "4 hrs trek, Flight", "difficulty": "Challenging", "accommodation": "Hotel" }
+      ]
+    },
+    "dhaulagiri_circuit": {
+      "short": [
+        { "day": 1, "title": "Drive to Darbang", "altitude": "1110m", "walking_hours": "9 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Sibang", "altitude": "1790m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Naura", "altitude": "2800m", "walking_hours": "7 hrs", "difficulty": "Challenging", "accommodation": "Tent" },
+        { "day": 4, "title": "Trek to Lapche Kharka", "altitude": "3150m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tent" },
+        { "day": 5, "title": "Helicopter Return to Pokhara", "altitude": "822m", "walking_hours": "Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "rolwaling_valley": {
+      "short": [
+        { "day": 1, "title": "Drive to Gongar Khola", "altitude": "1350m", "walking_hours": "8-9 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Simigaon", "altitude": "2020m", "walking_hours": "5 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Dongang", "altitude": "2790m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Beding", "altitude": "3690m", "walking_hours": "6 hrs", "difficulty": "Challenging", "accommodation": "Tea House" },
+        { "day": 5, "title": "Helicopter Return to Kathmandu", "altitude": "1400m", "walking_hours": "Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "gosaikunda_lake": {
+      "short": [
+        { "day": 1, "title": "Drive to Dhunche", "altitude": "2030m", "walking_hours": "6 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Chandanbari (Sing Gompa)", "altitude": "3330m", "walking_hours": "5 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Gosaikunda Lake", "altitude": "4380m", "walking_hours": "6 hrs", "difficulty": "Challenging", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek down to Dhunche", "altitude": "2030m", "walking_hours": "7-8 hrs", "difficulty": "Moderate", "accommodation": "Lodge" },
+        { "day": 5, "title": "Drive to Kathmandu", "altitude": "1400m", "walking_hours": "6 hrs drive", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "api_base_camp": {
+      "short": [
+        { "day": 1, "title": "Fly Dhangadhi & Drive to Latinath", "altitude": "1000m", "walking_hours": "1 hr flight, 6 hrs drive", "difficulty": "Easy", "accommodation": "Lodge" },
+        { "day": 2, "title": "Trek to Paribagar", "altitude": "1500m", "walking_hours": "5 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 3, "title": "Trek to Makarighad", "altitude": "2000m", "walking_hours": "6 hrs", "difficulty": "Moderate", "accommodation": "Tea House" },
+        { "day": 4, "title": "Trek to Siti", "altitude": "3000m", "walking_hours": "7 hrs", "difficulty": "Challenging", "accommodation": "Tent" },
+        { "day": 5, "title": "Return trek & Drive Out", "altitude": "1400m", "walking_hours": "Trek/Drive", "difficulty": "Moderate", "accommodation": "Hotel" }
+      ]
+    },
+    "bardiya_national_park": {
+      "short": [
+        { "day": 1, "title": "Fly to Nepalgunj & Drive to Bardiya", "altitude": "152m", "walking_hours": "1 hr flight, 2 hrs drive", "difficulty": "Easy", "accommodation": "Resort" },
+        { "day": 2, "title": "Full Day Jungle Safari / Tiger Tracking", "altitude": "152m", "walking_hours": "Jeep/Walking Safari", "difficulty": "Easy", "accommodation": "Resort" },
+        { "day": 3, "title": "Bird Watching & Tharu Village Tour", "altitude": "152m", "walking_hours": "2 hrs walk", "difficulty": "Easy", "accommodation": "Resort" },
+        { "day": 4, "title": "Drive Nepalgunj & Fly Kathmandu", "altitude": "1400m", "walking_hours": "Drive & Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "chitwan_national_park": {
+      "short": [
+        { "day": 1, "title": "Drive/Fly to Chitwan", "altitude": "415m", "walking_hours": "5 hrs drive / 20 min flight", "difficulty": "Easy", "accommodation": "Resort" },
+        { "day": 2, "title": "Canoe Ride & Elephant/Jeep Safari", "altitude": "415m", "walking_hours": "Safari Activities", "difficulty": "Easy", "accommodation": "Resort" },
+        { "day": 3, "title": "Bird Watching & Return to Kathmandu", "altitude": "1400m", "walking_hours": "1 hr walk, 5 hrs drive", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "ilam_tea_gardens": {
+      "short": [
+        { "day": 1, "title": "Fly to Bhadrapur & Drive to Ilam", "altitude": "1200m", "walking_hours": "45 min flight, 3 hrs drive", "difficulty": "Easy", "accommodation": "Hotel" },
+        { "day": 2, "title": "Explore Kanyam Tea Estate & Antu Danda", "altitude": "1677m", "walking_hours": "2-3 hrs walking", "difficulty": "Easy", "accommodation": "Hotel" },
+        { "day": 3, "title": "Drive Bhadrapur & Fly Kathmandu", "altitude": "1400m", "walking_hours": "3 hrs drive, Flight", "difficulty": "Easy", "accommodation": "Hotel" }
+      ]
+    },
+    "nagarkot": {
+      "short": [
+        { "day": 1, "title": "Drive Kathmandu to Nagarkot", "altitude": "2175m", "walking_hours": "1.5 hrs drive", "difficulty": "Easy", "accommodation": "Hotel" },
+        { "day": 2, "title": "Sunrise View & Hike to Dhulikhel/Changu", "altitude": "1500m", "walking_hours": "4 hrs hike", "difficulty": "Moderate", "accommodation": "Hotel" }
+      ]
+    }
+  }
+}
