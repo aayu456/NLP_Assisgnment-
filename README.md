@@ -17,7 +17,8 @@ TrekSathi is a Natural Language Processing (NLP) chatbot built in Python. It act
 * **Natural Delays:** Simulates a realistic "thinking" state while generating the final itinerary.
 
 ## Project Structure
-* `chatbot_base.py` - The base class providing the core interface for the chatbot.
+* `chatbot_base.py` - The base template class (`ChatbotBase`) that defines the core interface and basic functions for the chatbot.
+* `chatbot.py` - Contains the `TrekkingBot` class (which inherits from `ChatbotBase`). This file houses all the main NLP logic, intent classification, entity extraction, and response generation.
 * `run_chatbot.py` - The main script containing the `TrekkingBot` class (which inherits from `ChatbotBase`) and the execution loop.
 * `trek_data.json` - The database file containing the day-by-day breakdown of various trekking routes.
 
