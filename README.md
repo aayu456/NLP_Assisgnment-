@@ -1,54 +1,35 @@
 # Introduction to Artificial Intelligence(25/26)
 
-## Student name:
-## Student number: 
-## Project title:
+## Student name: Aayusha KC
+## Student number: 2319494
+## Project title: NLP_Assisgnment
 ## Link to project video recording: 
 
-# NLP-Assessment
-Template repo for the nlp mini-project assessments.
+# TrekSathi: Virtual Trekking Guide
 
-For your assessment you should make a new repository based of this template. Your chatbot class should inherit from the base class `ChatbotBase` and you should write new functions that override the basic functions given in this template.
+TrekSathi is a Natural Language Processing (NLP) chatbot built in Python. It acts as a virtual travel agent to help users plan trekking adventures in Nepal. By chatting naturally with the user, TrekSathi extracts their preferences and generates a customized day-by-day itinerary based on real trekking data.
 
-As you develop your own chatbot you should make regular commits using git to track and save the progress of your work. It is a requirement for you to make at **least 3 commits** to show the progress of your work. 
+## Key Features
+* **Dynamic Itinerary Generation:** Reads data dynamically from `trek_data.json`, meaning new treks can be added without changing the Python code.
+* **Intent Recognition:** Uses tokenization, stop-word removal, and Jaccard Similarity to understand what the user is asking (e.g., planning a trip, asking for weather, checking permit requirements, or exiting).
+* **Entity Extraction:** Uses Regular Expressions (Regex) to extract the **Destination** (e.g., "Everest", "Upper Mustang"), **Duration** (e.g., "5 days"), and **Difficulty** (e.g., "hard", "easy").
+* **Conversational Flow:** Asks follow-up questions if missing information and handles graceful fallbacks if it doesn't recognize a destination.
+* **Natural Delays:** Simulates a realistic "thinking" state while generating the final itinerary.
 
-Your submission for the mini-project will be a link to your own git repo that is based of this template class.
+## Project Structure
+* `chatbot_base.py` - The base class providing the core interface for the chatbot.
+* `run_chatbot.py` - The main script containing the `TrekkingBot` class (which inherits from `ChatbotBase`) and the execution loop.
+* `trek_data.json` - The database file containing the day-by-day breakdown of various trekking routes.
 
-### Getting started
+## How to Run the Project
 
-Make a new file for your chatbot, e.g. `my_chatbot.py`
+**Prerequisites:**
+You need Python 3.x installed on your computer. This project relies entirely on Python's built-in libraries (`re`, `string`, `json`, `time`), so no external installations (like `pip install`) are required!
 
-In that file you will need to include the line: 
-```
-import ChatbotBase from chatbot_base
-```
-
-In your new file make a new class that inherits from ChatbotBase, e.g.:
-```
-class MyChatbot(ChatbotBase):
-```
-
-The file `run_chatbot.py` should contain the code where your chatbot runs. 
-
-Below is a basic example of what this might look like.
-
-```
-from my_chatbot import MyChatbot
-
-if __name__ == "__main__":
-    
-    chatbot = MyChatbot()
-    chatbot.greeting()
-
-    response = chatbot.respond('How are you?')
-
-    while chatbot.conversation_is_active():
-        response = chatbot.respond(response)
-    
-    chatbot.farewell()
-```
-
-Your are not limited just to the core functions in the base class ChatbotBase. Feel free to add more functions to your chatbot class if you want your chatbot to have more complex behaviour's or functionality.
-
-
+**Execution:**
+1. Open your terminal or command prompt.
+2. Navigate to the folder containing your project files.
+3. Run the following command:
+   ```bash
+   python run_chatbot.py
 
